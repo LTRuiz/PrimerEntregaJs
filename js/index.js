@@ -1,8 +1,8 @@
 // Variables y constantes
 const productos = [
-    { id: 1, nombre: "Laptop", precio: 800 },
-    { id: 2, nombre: "Mouse", precio: 20 },
-    { id: 3, nombre: "Teclado", precio: 50 }
+    { id: 1, nombre: "Mate", precio: 800 },
+    { id: 2, nombre: "Bombilla", precio: 300 },
+    { id: 3, nombre: "Termo", precio: 1000 }
 ];
 let carrito = [];
 
